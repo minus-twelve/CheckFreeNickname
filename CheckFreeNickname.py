@@ -4,19 +4,19 @@ nickname=input()
 zanyato='<Response [200]>'
 nezanyato='<Response [404]>'
 
-massiv=['https://www.chess.com/member/',
-'http://github.com/',
-'https://www.patreon.com/',
-'https://www.tiktok.com/@',
+
+
+massiv=['http://github.com/',
+'http://hackerone.com/',
+'http://www.deviantart.com/',
 'http://vk.com/',
-'https://www.youtube.com/user/',
-'https://steamcommunity.com/id/',
-'https://illustrators.ru/users/',
-'https://www.deviantart.com/',
-'https://www.behance.net/',
-'https://www.twitch.tv/',
-'https://hackerone.com/',
-'https://habr.com/ru/users/']
+'http://www.youtube.com/user/',
+'http://steamcommunity.com/id/',
+'http://illustrators.ru/users/',
+'http://www.behance.net/',
+'http://www.twitch.tv/',
+'http://habr.com/ru/users/'
+]
 
 
 dlinamassiva=len(massiv)
